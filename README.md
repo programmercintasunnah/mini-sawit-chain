@@ -1,0 +1,1 @@
+mini supply chain sawit system: CRUD petani dan panen, dengan business rule penimbangan. Saya pakai Golang Clean Architecture, Postgres dengan constraint, REST API berbasis OpenAPI, dan frontend React TypeScript.
